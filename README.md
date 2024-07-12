@@ -45,7 +45,7 @@ Contributions are welcome! Please feel free to submit pull requests or create is
 
 ---
 
-This README provides a comprehensive overview of the NikeStore app, guiding users through installation, features, and contribution guidelines. Adjust the repository URL and any specific installation instructions as necessary to match your project setup.
+This README provides a comprehensive overview of the Poizon Zoom / NikeStore app, guiding users through installation, features, and contribution guidelines. Adjust the repository URL and any specific installation instructions as necessary to match your project setup.
 
 
 
@@ -106,5 +106,5 @@ https://github.com/Almir28/PoizonZoom
 
 ---
 
-Этот README предоставляет подробный обзор приложения NikeStore, направляя пользователей через установку, особенности и рекомендации по вкладу. При необходимости настройте URL репозитория и любые конкретные инструкции по установке, чтобы они соответствовали вашей конфигурации проекта.
+Этот README предоставляет подробный обзор приложения Poizon Zoom / NikeStore, направляя пользователей через установку, особенности и рекомендации по вкладу. При необходимости настройте URL репозитория и любые конкретные инструкции по установке, чтобы они соответствовали вашей конфигурации проекта.
 
