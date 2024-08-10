@@ -10,6 +10,20 @@ This repository contains the source code for the NikeStore app, a SwiftUI-based 
 - **User Authentication**: Supports user login and registration through Firebase Authentication.
 - **Favorites Management**: Allows users to add or remove products from their favorites.
 
+#### Screenshots
+
+<img src="https://github.com/user-attachments/assets/72f8588b-0b9b-40cc-beb8-37819e22b65c" width="300" />
+<img src="https://github.com/user-attachments/assets/d97260f9-7852-4578-a268-6b9c3234ac32" width="300" />
+<img src="https://github.com/user-attachments/assets/41cce4b0-29fb-41cf-b5a7-d57f76a8bc7c" width="300" />
+<img src="https://github.com/user-attachments/assets/db88fb45-054f-4034-9adf-1269ec7b9f5e" width="300" />
+<img src="https://github.com/user-attachments/assets/6675e88f-97b5-4153-811b-5f6d8850dc5c" width="300" />
+<img src="https://github.com/user-attachments/assets/efc17042-63de-497b-adaa-8c02079300d5" width="300" />
+<img src="https://github.com/user-attachments/assets/97fc59d5-c03b-49f2-9df4-d8a3744da4ca" width="300" />
+<img src="https://github.com/user-attachments/assets/cd0cde7c-84c1-4812-b583-8c67554d0b9d" width="300" />
+<img src="https://github.com/user-attachments/assets/5544d8c8-bd5f-4c56-bb16-5fcaec375830" width="300" />
+<img src="https://github.com/user-attachments/assets/813cd0dc-212f-42c8-9e10-8f6297efc648" width="300" />
+
+
 #### Installation
 
 1. **Clone the repository:**
@@ -69,6 +83,20 @@ ________________________________________________________________________________
 - **Слайдер изображений**: Реализует слайдер изображений для фотографий продуктов с использованием AsyncImage.
 - **Аутентификация пользователей**: Поддерживает вход в систему и регистрацию пользователей через Firebase Authentication.
 - **Управление избранными**: Позволяет пользователям добавлять или удалять продукты из избранного.
+
+#### Скриншоты 
+
+<img src="https://github.com/user-attachments/assets/72f8588b-0b9b-40cc-beb8-37819e22b65c" width="300" />
+<img src="https://github.com/user-attachments/assets/d97260f9-7852-4578-a268-6b9c3234ac32" width="300" />
+<img src="https://github.com/user-attachments/assets/41cce4b0-29fb-41cf-b5a7-d57f76a8bc7c" width="300" />
+<img src="https://github.com/user-attachments/assets/db88fb45-054f-4034-9adf-1269ec7b9f5e" width="300" />
+<img src="https://github.com/user-attachments/assets/6675e88f-97b5-4153-811b-5f6d8850dc5c" width="300" />
+<img src="https://github.com/user-attachments/assets/efc17042-63de-497b-adaa-8c02079300d5" width="300" />
+<img src="https://github.com/user-attachments/assets/97fc59d5-c03b-49f2-9df4-d8a3744da4ca" width="300" />
+<img src="https://github.com/user-attachments/assets/cd0cde7c-84c1-4812-b583-8c67554d0b9d" width="300" />
+<img src="https://github.com/user-attachments/assets/5544d8c8-bd5f-4c56-bb16-5fcaec375830" width="300" />
+<img src="https://github.com/user-attachments/assets/813cd0dc-212f-42c8-9e10-8f6297efc648" width="300" />
+
 
 #### Установка
 
